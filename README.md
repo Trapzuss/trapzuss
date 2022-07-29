@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning web develop<br>⚡ Fun fact
+🌱 I’m currently learning web development<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
